@@ -14,9 +14,10 @@
 
   body {
     background-color: black;/* set the background color here */
-    color:green;/* set the text color to black here */
+    color:aquamarine;/* set the text color to black here */
     font-family:Ariel, Helvetica, sans-serif, 100; /* set the font here */
-    text-align: left;/* set the text alignment here */
+    text-align: center;/* set the text alignment here */
+   
    }
 
   footer {
