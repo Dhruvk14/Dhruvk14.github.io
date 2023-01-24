@@ -14,7 +14,7 @@
 
   body {
     background-color: black;/* set the background color here */
-    color:Lime;/* set the text color to black here */
+    color:SpringGreen;/* set the text color to black here */
     font-family:Ariel, Helvetica, sans-serif, 100; /* set the font here */
     text-align: center;/* set the text alignment here */
    
@@ -36,7 +36,7 @@
     margin-bottom:5rem;
     margin-top: 5rem;
     
-    color: Lime; /* set the text color of to #075AAB here */
+    color: SpringGreen; /* set the text color of to #075AAB here */
     /* set both the bottom margin and top margin to 2.5rem here */
    }
 
@@ -44,7 +44,7 @@
     margin-bottom: 2rem;
     margin-top: 2rem;
     
-    color: green;
+    color: SpringGreen;
   }
 
   h4 {
